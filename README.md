@@ -4,7 +4,7 @@ This supplementary material consists of three main components: all the datasets 
 
 ## Dataset
 
-- **Note**:The dataset file can be downloaded from https://pan.baidu.com/s/1LIf0zcMuhxVN9359dsG33Q?pwd=21sx.
+- **Note**:The dataset file can be downloaded from https://pan.baidu.com/s/1LIf0zcMuhxVN9359dsG33Q?pwd=21sx or https://drive.google.com/drive/folders/1OynERQMXzPskrMe-8Une8oS1AvkPqq-f?usp=sharing.
 
 - MindScope
 
